@@ -6,3 +6,4 @@ t
 print("Hello World!")
 print("Hello Git!")
 while(1)
+	print("Error")
